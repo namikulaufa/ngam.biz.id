@@ -1,3 +1,4 @@
+<html>
 <?php
 error_reporting(0); 
 @header("content-Type: text/html; charset=utf-8"); 
@@ -866,3 +867,4 @@ if($sysInfo['swapTotal']>0)
 </table>
 <?php endif; ?>
 <hr>
+</html>
